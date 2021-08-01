@@ -1,0 +1,43 @@
+.chat__section{
+    border:1px solid black;
+    height:605px;
+}
+.brand{
+    border:1px solid black;
+    text-align: center;
+}
+.brand img{
+    height: 100px;
+    width: 100px;
+}
+h1{
+    font-size: 30px;
+}
+.message__area{
+    border:1px solid red;
+    height:300px;
+    
+   
+}
+.incoming{
+    border:1px solid green;
+    height:150px;
+    width:100px;
+    float: right;
+
+
+}
+.outgoing{
+    border:1px solid blue;
+    height:100px;
+    display:inline-block;
+    width:100px;
+
+
+}
+.message{
+    border:1px solid black;
+    position:absolute;
+    bottom:0px;
+    text-align: center;
+}
